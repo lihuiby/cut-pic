@@ -37,4 +37,4 @@ def splitimage(src, dstpath):
         print("2 ==== upper: %d | lower: %d | height: %s" % (upper, lower, height))
 
 if __name__  ==  '__main__':
-    splite_image()
+    splitimage()

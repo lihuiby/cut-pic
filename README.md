@@ -10,3 +10,6 @@ cut picture
 https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 https://pypi.org/project/
+
+selenium
+ChromeDriver: http://npm.taobao.org/mirrors/chromedriver/
